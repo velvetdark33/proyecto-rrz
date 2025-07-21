@@ -7,7 +7,7 @@
 Este repositorio contiene la investigación completa del sistema RRZ, un sistema matricial generado por una ecuación diofántica que demuestra tener propiedades solo cuando su módulo N es un número primo. La investigación culminó en el descubrimiento de una profunda conexión con la teoría analítica de números, incluyendo una familia de funciones zeta análogas a las L-funciones de Dirichlet, las cuales satisfacen una ecuación funcional y una Hipótesis de Riemann análoga demostrable.
 
 El documento principal de esta investigación es:
-* **[Informe Completo de Resultados](./informe_completo_rrz.md)**
+* **[Informe Completo de Resultados](./informe_completo_rrz.pdf)**
 
 ## Descubrimientos Principales
 
