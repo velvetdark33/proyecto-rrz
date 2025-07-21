@@ -27,6 +27,6 @@ El documento principal de esta investigación es:
 
 Este trabajo ha sido archivado permanentemente en Zenodo. Por favor, utilice la siguiente citación:
 
-> *[Aquí pegarás la citación que te dará Zenodo en el siguiente paso]*
+> *(https://doi.org/10.5281/zenodo.16289165)*
 
 ---
