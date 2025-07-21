@@ -14,7 +14,7 @@ El documento principal de esta investigación es:
 - **Gran Teorema Espectral (Teorema #207):** Demostración de una ecuación funcional para la función zeta espectral `ζm(s)`.
 - **Hipótesis de Riemann para m (Teorema #162):** Demostración de que todos los ceros no triviales de `ζm(s)` yacen en la línea crítica Re(s) = 1/2.
 - **Ley de Dualidad de Fourier (Teorema #208):** El sistema obedece la congruencia `R + I ≡ GZG⁻¹ (mod N)`, conectándolo con la Transformada de Fourier Discreta.
-- **Metodología de Verificación A-B:** Desarrollo de un protocolo de investigación IA auto-correctivo que permitió asegurar el rigor de los hallazgos.
+- **Metodología de Verificación A-B y su Validación:** Desarrollo de un protocolo de investigación IA auto-correctivo que permitió asegurar el rigor de los hallazgos y Caso de Estudio - Validación Definitiva en la Conjetura de Goldbach:.
 
 ## Contenido del Repositorio
 
